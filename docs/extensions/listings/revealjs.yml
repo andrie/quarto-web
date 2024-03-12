@@ -16,6 +16,13 @@
   description: |
     Automatically creates agenda slides from H1 heading titles.
 
+- name: gongtimer
+  path: https://github.com/andrie/quarto-gongtimer
+  author: "[andrie](https://github.com/andrie)"  
+  description: |
+    Add a progress bar and elapsed time bar at the bottom of 
+    your slides, useful for lightning talks and other timed presentations.
+
 - name: roughnotation
   path: https://github.com/EmilHvitfeldt/quarto-roughnotation
   author: "[EmilHvitfeldt](https://github.com/EmilHvitfeldt)"
